@@ -20,4 +20,4 @@ markdowns
 **something bold**  __also bold__
 *something italics* _also italic_
 
-![It's a boat](/project13/images/best-sailboat-bristol-40.jpg)
+![It's a boat](monsontm/project13/images/best-sailboat-bristol-40.jpg)
